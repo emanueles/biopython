@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Biologia encontra-se com programação: Bioinformática para iniciantes
 
-You can use the [editor on GitHub](https://github.com/emanueles/biopython/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Nesse curso, nós investigaremos a replicação de DNA e responderemos a seguinte pergunta: Onde em um genoma começa a replicação de DNA? Nós veremos que, para muitas bactérias, nós podemos responder essa pergunta com apenas alguns algoritmos simples para achar mensagens escondidas no genoma. Usaremos o genoma da bactéria Vibrio Cholerae como estudo de caso.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Esse curso possui duração de 20 horas, e nele  aprenderemos alguns conceitos básicos de programação, usando a linguagem [Python](https://www.python.org/) e [Jupyter notebooks](http://jupyter.org/) para responder a pergunta acima.
+## Conteúdo
 
-### Markdown
+### Módulo I: Introdução e definição do problema
+- Preparação da Replicação de DNA para ser resolvido de forma algorítmica;
+- Definindo o problema de achar a origem (ori) da replicação num genoma.
+- Dada uma origem, verificar se existe alguma mensagem escondida que faz com que a replicação se inicie ali (sequências frequentes)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Conceitos de programação abordados:
+- Introdução à Sintaxe do Python
+- Variáveis, Tipos de dados simples, Comentários
+- Operações numéricas
+- Strings e Saída de dados
+- Condições e Estruturas de Controle
+- Laços com for
 
-```markdown
-Syntax highlighted code block
+### Módulo II: Contando sequências frequentes
+- Identificar as sequências de tamanho k (k-mers) mais frequentes em um fragmento de DNA (abordagem ingênua)
+- Lidando com duplicatas
+- Identificando o k-mer mais provável de ser o início da replicação
+- Computando o complemento reverso de uma fita de DNA
+- Encontrando todas as ocorrências de uma sub-sequência em um fragmento de DNA
 
-# Header 1
-## Header 2
-### Header 3
+Conceitos de programação abordados:
+- Listas e Dicionários
+- Funções
+- Laços
+- Leitura de arquivos
 
-- Bulleted
-- List
+### Módulo III: Explorando mensagens escondidas em múltiplos fragmentos de DNA
+- Achando k-mers que aparecem muitas vezes dentro de um curto intervalo do genoma
+- Comparando ori em diferentes genomas (Usaremos E. Coli)
+- Assimetria da Replicação
+- Calculando Estatísticas do DNA 
+- Lidando com mutações
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emanueles/biopython/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Conceitos de programação abordados
+- Desenhando gráficos
+- Funções, Cálculo de distância de Hamming
