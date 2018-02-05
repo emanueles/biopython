@@ -49,3 +49,12 @@ Conceitos de programação abordados:
 Conceitos de programação abordados
 - Desenhando gráficos
 - Funções, Cálculo de distância de Hamming
+
+## Material Dia 1
+
+#### Slides em formato pdf
+[Apresentação do Curso](https://drive.google.com/open?id=1JbgDdvtziyqTw2KzHFxZinicnNZ2rr_K)
+[Módulo I - Dia 1 - Introdução e Motivação](https://drive.google.com/open?id=1JjRxWLSCNLDl3rWO5SWIhpMpm3cEffuV)
+[Jupyter Notebooks](https://notebooks.azure.com/emanueles/libraries/biopython-dia1)
+
+> Observação: As instruções para criação de conta e utilização dos notebooks na Azure estão nos slides.
