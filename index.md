@@ -55,6 +55,14 @@ Conceitos de programação abordados
 #### Slides em formato pdf
 * [Apresentação do Curso](https://drive.google.com/open?id=1JbgDdvtziyqTw2KzHFxZinicnNZ2rr_K)
 * [Módulo I - Dia 1 - Introdução e Motivação](https://drive.google.com/open?id=1JjRxWLSCNLDl3rWO5SWIhpMpm3cEffuV)
+
+#### Prática
 * [Jupyter Notebooks](https://notebooks.azure.com/emanueles/libraries/biopython-dia1)
 
 > Observação: As instruções para criação de conta e utilização dos notebooks na Azure estão nos slides.
+> 
+
+## Material Dia 2
+
+#### Prática
+* [Jupyter Notebooks](https://notebooks.azure.com/emanueles/libraries/biopython-dia2)
