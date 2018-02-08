@@ -75,6 +75,7 @@ Conceitos de programação abordados
 
 ## Material Dia 4
 
+#### Prática
 * [Dicionários em Python (notebook avulso)](https://raw.githubusercontent.com/emanueles/biopython/master/notebooks/09-dicionarios.ipynb)
 * [Listas e Funções em Python (notebook avulso)](https://raw.githubusercontent.com/emanueles/biopython/master/notebooks/10-listas-funcoes.ipynb)
 
