@@ -73,5 +73,10 @@ Conceitos de programação abordados
 * [Mais exercícios sobre o comando for (notebook avulso)](https://raw.githubusercontent.com/emanueles/biopython/master/notebooks/05-for-exercicios.ipynb)
 * [Listas em Python (notebook avulso)](https://raw.githubusercontent.com/emanueles/biopython/master/notebooks/08-listas.ipynb)
 
+## Material Dia 4
+
+* [Dicionários em Python (notebook avulso)](https://raw.githubusercontent.com/emanueles/biopython/master/notebooks/09-dicionarios.ipynb)
+* [Listas e Funções em Python (notebook avulso)](https://raw.githubusercontent.com/emanueles/biopython/master/notebooks/10-listas-funcoes.ipynb)
+
+
 > Observação: Os notebooks avulsos devem ser adicionados à sua biblioteca do dia 2. Você pode usar as urls dos notebooks diretamente sem precisar fazer o download. As instruções de como fazer isso serão dadas no laboratório.
-> 
