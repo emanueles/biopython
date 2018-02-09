@@ -79,5 +79,10 @@ Conceitos de programação abordados
 * [Dicionários em Python (notebook avulso)](https://raw.githubusercontent.com/emanueles/biopython/master/notebooks/09-dicionarios.ipynb)
 * [Listas e Funções em Python (notebook avulso)](https://raw.githubusercontent.com/emanueles/biopython/master/notebooks/10-listas-funcoes.ipynb)
 
-
 > Observação: Os notebooks avulsos devem ser adicionados à sua biblioteca do dia 2. Você pode usar as urls dos notebooks diretamente sem precisar fazer o download. As instruções de como fazer isso serão dadas no laboratório.
+
+
+## Material Dia 5
+
+#### Prática
+* [Jupyter Notebooks](https://notebooks.azure.com/emanueles/libraries/biopython-dia5)
